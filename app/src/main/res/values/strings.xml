@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AllenDroid</string>
+    <string name="label_start_standard_activity">Start Standard Activity</string>
+    <string name="label_start_single_top_activity">Start SingleTop Activity</string>
+    <string name="label_start_single_task_activity">Start SingleTask Activity</string>
+    <string name="label_start_single_instance_activity">Start SingleInstance Activity</string>
 </resources>
